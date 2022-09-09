@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- ## I m a Java Developer (Junior)
+ ## I m a Java Developer
 
 Key knowledge and skills:
 
