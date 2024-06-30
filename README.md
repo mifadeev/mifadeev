@@ -1,18 +1,15 @@
-### Hi there 👋
+### Всем привет! 👋
 
- ## I'm a Data Analist
+ ## Я аналитик данных
 
-Key knowledge and skills:
+Ключевые знанаия и навыки:
 
-- Python
-- SQL
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
-- Google Colab
-- Linux
+- Сбор и структурирование данных из различных источников.
+- Анализ больших объемов данных, выявление трендов и проблемных моментов.
+- Формулирование рекомендаций на основе полученных результатов.
+- Подготовка аналитических отчетов и визуализация данных.
+- Создания читабельных Jupyter-ноутбуков.
+- Понимание статистики и теории вероятностей.
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
